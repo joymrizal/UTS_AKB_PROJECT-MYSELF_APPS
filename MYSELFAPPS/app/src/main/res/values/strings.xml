@@ -1,0 +1,18 @@
+<!-- Tanggal    : 12 juni 2024 -->
+<!-- NIM        : 10121910 -->
+<!-- Nama       : Joy Muhamad Rizal -->
+<!-- Kelas      : IF9K -->
+<!-- Matkul     : 2023/2024 Genap - Pemrograman Android -->
+<!-- Dosen      : Pak Rizki Adam Kurniawan -->
+<resources>
+    <string name="app_name">MYSELF APPS</string>
+    <string name="next">SLIDE FOR NEXT</string>
+    <string name="back">BACK</string>
+    <string name="start">Start Journey</string>
+    <string name="desc1">Selamat datang di Myself Apps, aplikasi yang dirancang untuk mencerminkan kepribadian dan aktivitas harian. Temukan fitur-fitur menarik seperti profil pribadi, aktivitas harian, galeri, serta musik dan video favorit.</string>
+    <string name="desc2">Nikmati fitur-fitur unggulan di Myself Apps. Pada halaman Profil, tambahkan foto dan deskripsi diri. Gunakan fitur Aktivitas Harian untuk mencatat kegiatan sehari-hari, simpan momen di Galeri, dan nikmati koleksi musik dan video favorit.</string>
+    <string name="desc3">Navigasikan aplikasi melalui menu di bagian bawah. Sesuaikan tampilan dan data di halaman Pengaturan. Kunjungi halaman Tentang untuk bantuan lebih lanjut. Tekan CLICK FOR START untuk memulai pengalaman dengan Myself Apps.</string>
+    <string name="descHome">Saya seorang Engineering Elektrikal yang juga memiliki keahlian dalam penggunaan perangkat lunak PLC (Programmable Logic Controller). Dengan pengetahuan dan keterampilan yang Saya miliki, Saya mampu merancang, mengembangkan, dan mengimplementasikan sistem kontrol yang kompleks dalam berbagai lingkungan industri. Kombinasi antara pemahaman mendalam tentang prinsip-prinsip listrik dan kemahiran dalam menggunakan software PLC membuat Saya menjadi profesional yang sangat berharga dalam bidang teknik kontrol dan otomasi.</string>
+    <string name="descHome2">Hobi saya adalah bermain game dan menikmati kuliner di kota Bandung. Saya suka mencari pengalaman baru dalam dunia gaming dan selalu antusias untuk mencoba game-game terbaru. Di samping itu, saya juga senang menjelajahi berbagai tempat makan dan mencicipi makanan yang unik dan lezat di Bandung. Hobi-hobi ini memberi saya kesenangan dan relaksasi setelah seharian bekerja di dunia teknik.</string>
+    <string name="profileDesc">Saya seorang profesional di bidang otomasi dengan hasrat yang besar terhadap teknologi dan inovasi. Di luar pekerjaan, saya menemukan kesenangan dalam bermain games, di mana saya dapat mengasah kreativitas, strategi, dan kemampuan adaptasi. Saya juga telah menapaki peran sebagai kepala keluarga dengan memiliki satu orang anak, yang memberikan saya motivasi ekstra untuk terus berkembang dan memberikan yang terbaik dalam segala hal.</string>
+</resources>

@@ -1,0 +1,12 @@
+<!-- Tanggal    : 12 juni 2024 -->
+<!-- NIM        : 10121910 -->
+<!-- Nama       : Joy Muhamad Rizal -->
+<!-- Kelas      : IF9K -->
+<!-- Matkul     : 2023/2024 Genap - Pemrograman Android -->
+<!-- Dosen      : Pak Rizki Adam Kurniawan -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MYSELFAPPS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+</resources>

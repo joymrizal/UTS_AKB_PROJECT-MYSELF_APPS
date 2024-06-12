@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tanggal    : 12 juni 2024 -->
+<!-- NIM        : 10121910 -->
+<!-- Nama       : Joy Muhamad Rizal -->
+<!-- Kelas      : IF9K -->
+<!-- Matkul     : 2023/2024 Genap - Pemrograman Android -->
+<!-- Dosen      : Pak Rizki Adam Kurniawan -->
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clouds">#ecf0f1</color>
+    <color name="emerald">#2ecc71</color>
+    <color name="peterriver">#3498db</color>
+    <color name="sunflower">#f1c40f</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="alizarin">#e74c3c</color>
+    <color name="midnightblue">#2c3e50</color>
+
+</resources>
